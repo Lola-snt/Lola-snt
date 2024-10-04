@@ -1,5 +1,6 @@
 ### Hi there intruder 👽
-Sou Desenvolvedora de Software Back-end e atualmente estou cursando Análise e Desenvolvimento de Sistemas, além do curso intensivo com foco em Desenvolvimento Back-end ofertado pelo ifood (Cubos Academy) utilizando as tecnologias JavaScript | Node.js| SQL| C#| Docker| Kanban| Scrum |Agile
+Desenvolvedora de Software Back-end | Golang | Java | Node.js| SQL| Postgres| C#| Docker
+
 <!--
 **Lola-snt/Lola-snt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
